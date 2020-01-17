@@ -177,3 +177,4 @@ ApprovalTests.Tests/WindowsLineEndings.txt
 bin/
 obj/
 *.userprefs
+.idea
